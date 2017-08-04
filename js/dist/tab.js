@@ -16,7 +16,7 @@ var Tab = function ($) {
    * Constants
    * ------------------------------------------------------------------------
    */
-
+//注释写入内部
   var NAME = 'tab';
   var VERSION = '4.0.0-alpha.6';
   var DATA_KEY = 'bs.tab';
